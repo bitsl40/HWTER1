@@ -14,6 +14,7 @@
 
 ### ОТВЕТ:
   
+```
  resource "docker_image" {     --- есть тип ресурса, но не указано имя ресурса
   name         = "nginx:latest"
   keep_locally = true
@@ -23,7 +24,7 @@ resource "docker_container" "1nginx" {  -- имя ресурса не может
   image = docker_image.nginx.image_id
   name  = "example_${random_password.random_string_FAKE.resulT}" -- ссылка на не существующий ресурс, выше в коде он назван random_string и синтаксис в  resursT не может оканчиваться на заглавную букву
 
-  
+```  
 5. Выполните код. В качестве ответа приложите: исправленный фрагмент кода и вывод команды ```docker ps```.
 
 ### ОТВЕТ:
