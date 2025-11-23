@@ -121,4 +121,5 @@ keep_locally (Boolean) If true, then the Docker image won't be deleted on destro
       - MYSQL_ROOT_HOST="%"
 ```
 
+### Ответ:
 
