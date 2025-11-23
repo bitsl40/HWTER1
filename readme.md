@@ -122,4 +122,5 @@ keep_locally (Boolean) If true, then the Docker image won't be deleted on destro
 ```
 
 ### Ответ:
-
+[Сылка на репазиторий с заданием 2 ](https://skillbox.ru/media/)
+![Изображение]()
