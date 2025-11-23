@@ -123,4 +123,6 @@ keep_locally (Boolean) If true, then the Docker image won't be deleted on destro
 
 ### Ответ:
 [Сылка на репазиторий с заданием 2 ](https://skillbox.ru/media/)
-![Изображение]()
+
+Скрин с вывода env-переменных в контейнере на ВМ в облаке 
+![Изображение](https://github.com/bitsl40/HWTER1/blob/main/task2/%D1%82%D0%B0%D1%81%D0%BA2.png)
